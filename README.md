@@ -4,12 +4,12 @@ Objectif :
 
 Mécanique de jeu :
 
-- Le joueur se déplace d'une case à une autre, horizontalement ou verticalement, à chaque tour.
+- Le joueur se déplace d'une case à une autre, horizontalement ou verticalement, à chaque tour ou peut choisir de lancer une pierre
 - Les cases peuvent contenir différents éléments impactant la progression du joueur :
-        - Mines : entraînent la perte du joueur.
-        - Passages : téléportent le joueur à une autre case.
-        - Obstacles : empêchent le joueur d'entrer.
-        - Pierres : collectées par le joueur et utilisées pour avancer ou résoudre des obstacles.
+  - Mines : entraînent la perte du joueur.
+  - Passages : téléportent le joueur à une autre case.
+  - Obstacles : empêchent le joueur d'avancer.
+  - Pierres : collectées par le joueur et utilisées pour avancer ou détruire des obstacles.
 
 Gestion du plateau :
 
